@@ -1,5 +1,5 @@
 # 仮想通貨取引帳簿
-https://take-iwiw.github.io/CryptCoinAccountBook/
+https://take-iwiw.github.io/CryptoCoinAccountBook/
 
 - 仮想コイン取引の記録を行う
 	- 日本円 - 仮想通貨取引
